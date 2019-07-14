@@ -3,5 +3,5 @@
 This is Draft version
 
 <html>
-  <b>Test</b>
+  <img src="Autojob_Design.png" alt="Girl in a jacket">
   </html>
